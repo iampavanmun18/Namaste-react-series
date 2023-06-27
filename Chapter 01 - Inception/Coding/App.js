@@ -5,7 +5,7 @@
 // root.appendChild(heading);
 
 // Manipulate the HTML DOM using React
-
+//This is the parent component
 // Create nested React Elements
 const heading = React.createElement(
   "h1",
